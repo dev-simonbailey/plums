@@ -1,3 +1,3 @@
 <?php
-echo "What about plums? (plum dependency)<br />";
+$plums = "What about plums? (plum dependency)<br />";
 ?>
